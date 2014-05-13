@@ -1,3 +1,7 @@
+//name of the project
+//current version of the project
+//private prevents the project from being published accidentally if you set it to true.
+//dependencies is a list containing the Node.js modules used by your application.
 {
   "name": "NodeExpressTest",
   "version": "0.0.1",
